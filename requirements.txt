@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+aiohttp
+aiodns
+ujson
+tortoise-orm
